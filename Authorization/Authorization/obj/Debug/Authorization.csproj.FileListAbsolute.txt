@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Authorization\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\user\source\repos\Authorization\Authorization\bin\Debug\Authorization.exe
+C:\Users\user\source\repos\Authorization\Authorization\bin\Debug\Authorization.pdb
+C:\Users\user\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Authorization\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Authorization\Authorization\obj\Debug\Authorization.exe
+C:\Users\user\source\repos\Authorization\Authorization\obj\Debug\Authorization.pdb
