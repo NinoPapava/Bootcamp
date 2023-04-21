@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\user\source\repos\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
